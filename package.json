@@ -1,0 +1,19 @@
+{
+  "name": "howell_movie_castle",
+  "version": "1.0.0",
+  "description": "Voting system for Howell's movie night 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lizzard1123/Howell_Movie_Castle.git"
+  },
+  "author": "Ethan, Hunter, Gyrphon, Mukilan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lizzard1123/Howell_Movie_Castle/issues"
+  },
+  "homepage": "https://github.com/Lizzard1123/Howell_Movie_Castle#readme"
+}
